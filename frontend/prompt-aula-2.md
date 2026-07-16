@@ -1,8 +1,13 @@
 # Prompts - Aula 2
 
+
 1. Crie um ambiente virtual em Python usando a venv e faça a ativação
 
 
+<!-- O Uvicorn é um servidor web ASGI (Asynchronous Server Gateway Interface) ultrarrápido para Python. Ele é o motor padrão de frameworks assíncronos modernos como o FastAPI e o Starlette, projetado para suportar conexões persistentes, como WebSockets e HTTP/1.1.Ele é frequentemente utilizado para iniciar aplicativos e APIs localmente ou em ambientes de produção 
+
+Ver no Chrome a aplicação: http://127.0.0.1:8000 
+Ver a Documentação: http://127.0.0.1:8000/redoc -->
 2. Instale o uvicorn na venv deste projeto
 
 
