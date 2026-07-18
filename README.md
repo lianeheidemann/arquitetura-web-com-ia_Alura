@@ -8,8 +8,6 @@
 
 Este projeto é um **álbum de figurinhas digital e interativo** temático de tecnologia, contendo grandes pioneiros da computação e inteligência artificial, além de instrutores e personalidades da Alura. Ele foi desenvolvido como parte da **Imersão de Arquitetura Web com IA da Alura**.
 
-O projeto simula a experiência física de folhear um álbum de figurinhas de papel diretamente no navegador, completo com animações realistas de transição e efeitos sonoros dinâmicos.
-
 ---
 
 ## Objetivo do Projeto
