@@ -116,6 +116,8 @@ execução para que as figurinhas sejam carregadas.
 > Abrir o `index.html` diretamente permite visualizar o álbum, mas um servidor
 > local é recomendado para evitar restrições do navegador.
 
+---
+
 <details>
     <summary>Se o ambiente virtual foi já criado anteriormente</summary>
 
